@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "quote": "Mental health is not a destination, but a process. It’s about how you drive, not where you’re going.",
+    "author": "Noam Shpancer"
+  },
+  {
+    "id": 2,
+    "quote": "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+    "author": "Buddha"
+  },
+  {
+    "id": 3,
+    "quote": "What mental health needs is more sunlight, more candor, and more unashamed conversation.",
+    "author": "Glenn Close"
+  },
+  {
+    "id": 4,
+    "quote": "Self-care is how you take your power back.",
+    "author": "Lalah Delia"
+  },
+  {
+    "id": 5,
+    "quote": "Your mental health is everything – prioritize it. Make the time like your life depends on it, because it does.",
+    "author": "Mel Robbins"
+  },
+  {
+    "id": 6,
+    "quote": "The only journey is the journey within.",
+    "author": "Rainer Maria Rilke"
+  },
+  {
+    "id": 7,
+    "quote": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+    "author": "J.K. Rowling"
+  },
+  {
+    "id": 8,
+    "quote": "Not until we are lost do we begin to understand ourselves.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "id": 9,
+    "quote": "You don’t have to control your thoughts. You just have to stop letting them control you.",
+    "author": "Dan Millman"
+  },
+  {
+    "id": 10,
+    "quote": "Mental health problems don’t define who you are. They are something you experience. You walk in the rain and you feel the rain, but, importantly, YOU ARE NOT THE RAIN.",
+    "author": "Matt Haig"
+  },
+  {
+    "id": 11,
+    "quote": "If you can't fly, then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "id": 12,
+    "quote": "Don’t believe everything you think.",
+    "author": "Unknown"
+  },
+  {
+    "id": 13,
+    "quote": "It's okay to not be okay. Just don't give up.",
+    "author": "Unknown"
+  },
+  {
+    "id": 14,
+    "quote": "The bravest thing I ever did was continuing my life when I wanted to die.",
+    "author": "Juliette Lewis"
+  },
+  {
+    "id": 15,
+    "quote": "Healing takes time, and asking for help is a courageous step.",
+    "author": "Mariska Hargitay"
+  },
+  {
+    "id": 16,
+    "quote": "You are not your illness. You have an individual story to tell. You have a name, a history, a personality. Staying yourself is part of the battle.",
+    "author": "Julian Seifter"
+  },
+  {
+    "id": 17,
+    "quote": "There is hope, even when your brain tells you there isn’t.",
+    "author": "John Green"
+  },
+  {
+    "id": 18,
+    "quote": "You are not alone. You are seen. I am with you. You are not alone.",
+    "author": "Shonda Rhimes"
+  },
+  {
+    "id": 19,
+    "quote": "You are the one thing in this world, above all other things, that you must never give up on.",
+    "author": "Lili Reinhart"
+  },
+  {
+    "id": 20,
+    "quote": "Sometimes the people around you won’t understand your journey. They don’t need to; it’s not for them.",
+    "author": "Joubert Botha"
+  },
+  {
+    "id": 21,
+    "quote": "It is during our darkest moments that we must focus to see the light.",
+    "author": "Aristotle"
+  },
+  {
+    "id": 22,
+    "quote": "Feelings are just visitors, let them come and go.",
+    "author": "Mooji"
+  },
+  {
+    "id": 23,
+    "quote": "No need to hurry. No need to sparkle. No need to be anybody but oneself.",
+    "author": "Virginia Woolf"
+  },
+  {
+    "id": 24,
+    "quote": "Your present circumstances don’t determine where you can go; they merely determine where you start.",
+    "author": "Nido Qubein"
+  },
+  {
+    "id": 25,
+    "quote": "The best way out is always through.",
+    "author": "Robert Frost"
+  },
+  {
+    "id": 26,
+    "quote": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+    "author": "Kahlil Gibran"
+  },
+  {
+    "id": 27,
+    "quote": "There is no standard normal. Normal is subjective. There are seven billion versions of normal on this planet.",
+    "author": "Matt Haig"
+  },
+  {
+    "id": 28,
+    "quote": "Vulnerability sounds like truth and feels like courage. Truth and courage aren’t always comfortable, but they’re never weakness.",
+    "author": "Brené Brown"
+  },
+  {
+    "id": 29,
+    "quote": "The greatest weapon against stress is our ability to choose one thought over another.",
+    "author": "William James"
+  },
+  {
+    "id": 30,
+    "quote": "When you change the way you look at things, the things you look at change.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "id": 31,
+    "quote": "There is a crack in everything, that’s how the light gets in.",
+    "author": "Leonard Cohen"
+  },
+  {
+    "id": 32,
+    "quote": "Healing doesn’t mean the damage never existed. It means the damage no longer controls our lives.",
+    "author": "Akshay Dubey"
+  },
+  {
+    "id": 33,
+    "quote": "You are not weak for struggling. You are strong for continuing to fight.",
+    "author": "Unknown"
+  },
+  {
+    "id": 34,
+    "quote": "Our wounds are often the openings into the best and most beautiful parts of us.",
+    "author": "David Richo"
+  },
+  {
+    "id": 35,
+    "quote": "Your mind is a powerful thing. When you fill it with positive thoughts, your life will start to change.",
+    "author": "Unknown"
+  },
+  {
+    "id": 36,
+    "quote": "Tough times never last, but tough people do.",
+    "author": "Robert H. Schuller"
+  },
+  {
+    "id": 37,
+    "quote": "You are never too broken to be fixed.",
+    "author": "Unknown"
+  },
+  {
+    "id": 38,
+    "quote": "Promise me you’ll always remember: You’re braver than you believe, and stronger than you seem, and smarter than you think.",
+    "author": "A.A. Milne"
+  },
+  {
+    "id": 39,
+    "quote": "You have been criticizing yourself for years and it hasn’t worked. Try approving of yourself and see what happens.",
+    "author": "Louise Hay"
+  },
+  {
+    "id": 40,
+    "quote": "I am not afraid of storms for I am learning how to sail my ship.",
+    "author": "Louisa May Alcott"
+  },
+  {
+    "id": 41,
+    "quote": "Your struggle is part of your story.",
+    "author": "Unknown"
+  },
+  {
+    "id": 42,
+    "quote": "Life doesn’t make any sense without interdependence. We need each other, and the sooner we learn that, the better for us all.",
+    "author": "Erik Erikson"
+  },
+  {
+    "id": 43,
+    "quote": "Sometimes the hardest part of the journey is believing you’re worthy of the trip.",
+    "author": "Glenn Beck"
+  },
+  {
+    "id": 44,
+    "quote": "You are so much more than what you’re going through.",
+    "author": "John Tew"
+  },
+  {
+    "id": 45,
+    "quote": "There is no health without mental health.",
+    "author": "David Satcher"
+  },
+  {
+    "id": 46,
+    "quote": "The strongest people are those who win battles we know nothing about.",
+    "author": "Unknown"
+  },
+  {
+    "id": 47,
+    "quote": "You don’t have to be positive all the time. It’s perfectly okay to feel sad, angry, annoyed, frustrated, scared, and anxious. Having feelings doesn’t make you a negative person. It makes you human.",
+    "author": "Lori Deschene"
+  },
+  {
+    "id": 48,
+    "quote": "It’s not the days in life we remember, rather the moments.",
+    "author": "Walt Disney"
+  },
+  {
+    "id": 49,
+    "quote": "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
+    "author": "Etty Hillesum"
+  },
+  {
+    "id": 50,
+    "quote": "Healing is not linear.",
+    "author": "Unknown"
+  }
+]

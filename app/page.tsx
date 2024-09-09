@@ -1,6 +1,6 @@
 import QuoteIcon from "@/assets/quote.svg";
 import Image from "next/image";
-
+import MentalHealthQuotes from "@/data/mental-health-quotes.json";
 interface Quote {
   id: number;
   quote: string;
@@ -8,13 +8,17 @@ interface Quote {
 }
 
 const Home = async () => {
-  let quote: Quote | null = null;
-  try {
-    const res = await fetch("https://dummyjson.com/quotes/random");
-    quote = (await res.json()) as Quote;
-  } catch (err) {
-    console.log(err);
-  }
+  // let quote: Quote | null = null;
+  // try {
+  //   const res = await fetch("https://dummyjson.com/quotes/random");
+  //   quote = (await res.json()) as Quote;
+  // } catch (err) {
+  //   console.log(err);
+  // }
+  const quote: Quote =
+    MentalHealthQuotes[
+      Math.ceil(Math.random() * (MentalHealthQuotes.length - 1 - 0) + 0)
+    ];
 
   return (
     <div className="flex justify-center items-center flex-col p-10 min-h-screen gap-10 bg-slate-900">
